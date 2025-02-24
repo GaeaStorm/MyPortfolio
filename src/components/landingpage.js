@@ -18,12 +18,12 @@ class Landing extends Component {
       <h1>
       <TypistCycle
       content={[
-        'Computer Science Student ',
-        'Graduating May 2021 ',
-        'Machine Learning Enthusiast '
+        'Yale MBA Student',
+        'Graduating May 2026 ',
+        'Recruiting for Product Management'
       ]}
       numberOfCycles={-1} // loop indefinitely
-      segmentDelay={0.1} // stop for 0.8s at end line
+      segmentDelay={0.3} // stop for 0.8s at end line
       />
 
       </h1>
