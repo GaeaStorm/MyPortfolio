@@ -15,7 +15,7 @@ class Contact extends Component {
       style={{height: '250px'}}
       />
       <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>
-      Computer Science Developer and Researcher studying at Rice University with a specialization in Data Science. Graduating May 2021.
+      First-year MBA student at Yale School of Management targeting a career in product management and strategy.
       </p>
 
       </Cell>
@@ -28,14 +28,7 @@ class Contact extends Component {
       <ListItem>
       <ListItemContent style={{fontSize: '30px'}}>
       <i className="fa fa-phone-square" aria-hidden="true"/>
-      +13467774542
-      </ListItemContent>
-      </ListItem>
-
-      <ListItem>
-      <ListItemContent style={{fontSize: '30px'}}>
-      <i className="fa fa-phone-square" aria-hidden="true"/>
-      +917503603142
+      (346)-777-4542
       </ListItemContent>
       </ListItem>
 
@@ -49,7 +42,7 @@ class Contact extends Component {
       <ListItem>
       <ListItemContent style={{fontSize: '30px'}}>
       <i className="fa fa-envelope" aria-hidden="true"/>
-      grs7@rice.edu
+      gai.sawant@yale.edu
       </ListItemContent>
       </ListItem>
 
